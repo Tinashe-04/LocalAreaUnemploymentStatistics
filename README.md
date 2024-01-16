@@ -11,3 +11,4 @@ A repository with code for exploratory data analysis of unemployment statistics 
 - Added percentage column for unemployment rates
 - To do next: check if June 2023 is the latest date in the dataset (helps with working on time-series data too)
 - To do next: Revise all mean plots
+- To do next: Answer the questions added to the notebook
