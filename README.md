@@ -24,5 +24,6 @@ A repository with code for exploratory data analysis of unemployment statistics 
 - found out that 2020 had the largest percentage change in size of labor force (think COVID)
 - TODO: check if June 2023 is the latest date in the dataset (helps with working on time-series data too)
 - TODO: add line at y=0 for percentage changes
+- TODO: Provide summary statements for the boxplots
 - TODO: Answer the questions added to the notebook
 
