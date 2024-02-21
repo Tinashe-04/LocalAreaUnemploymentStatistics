@@ -27,3 +27,22 @@ A repository with code for exploratory data analysis of unemployment statistics 
 - TODO: Provide summary statements for the boxplots
 - TODO: Answer the questions added to the notebook
 
+02/21/2024
+
+Outlined the stakeholders interested in LAUS data directly from the BLS website (https://www.bls.gov/lau/lauov.htm) which are detailed as follows.
+
+A wide variety of customers use these estimates:
+
+- Federal programs use the data for allocations to states and areas, as well as eligibility determinations for assistance.
+- State and local governments use the estimates for planning and budgetary purposes and to determine the need for local employment and training services.
+- Private industry, researchers, the media, and other individuals use the data to assess localized labor market developments and make comparisons across areas.
+
+- I used sklearn's LinearRegression class to come up with a regression equation that estimates the unemployment rate based on the size of the labor force
+- I found out that for every additional person who is added to the labor force, the unemployment rate decreases by 1.08e-09.
+- In other words, solely based on the size of the labor force, it will take just over 9,000,000 people to be added to the labor force for the unemployment rate to decrease by 0.01 or by 1%.
+- There is more to come.
+- TODO: check if June 2023 is the latest date in the dataset (helps with working on time-series data too)
+- TODO: add line at y=0 for percentage changes
+- TODO: Provide summary statements for the boxplots
+- TODO: Answer the questions added to the notebook
+
