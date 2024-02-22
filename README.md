@@ -38,6 +38,11 @@ A repository with code for exploratory data analysis of unemployment statistics 
 - TODO: Provide summary statements for the boxplots
 - TODO: Answer the questions added to the notebook
 
+02/22/2024
+
+- Answered questions from the data
+- Created a plot for counties with highest unemployment rates in 2021
+
 Additionally, I outlined the stakeholders interested in LAUS data directly from the BLS website (https://www.bls.gov/lau/lauov.htm) to get a better sense of who would be interested in the insights gathered from the LAUS data. They are detailed as follows.
 
 A wide variety of customers use these estimates:
