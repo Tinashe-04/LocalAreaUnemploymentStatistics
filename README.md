@@ -51,4 +51,4 @@ A wide variety of customers use these estimates:
 - State and local governments use the estimates for planning and budgetary purposes and to determine the need for local employment and training services.
 - Private industry, researchers, the media, and other individuals use the data to assess localized labor market developments and make comparisons across areas.
 
-
+View my notebook here: https://nbviewer.org/github/Tinashe-04/LocalAreaUnemploymentStatistics/blob/main/Local%20Area%20Unemployment%20Stats.ipynb#
