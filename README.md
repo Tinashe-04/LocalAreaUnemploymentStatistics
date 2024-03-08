@@ -43,7 +43,7 @@ A repository with code for exploratory data analysis of unemployment statistics 
 - Answered questions from the data
 - Created a plot for counties with highest unemployment rates in 2021
 
-Additionally, I outlined the stakeholders interested in LAUS data directly from the BLS website (https://www.bls.gov/lau/lauov.htm) to get a better sense of who would be interested in the insights gathered from the LAUS data. They are detailed as follows.
+Additionally, I outlined the stakeholders interested in LAUS data directly from the [BLS website](https://www.bls.gov/lau/lauov.htm) to get a better sense of who would be interested in the insights gathered from the LAUS data. They are detailed as follows.
 
 A wide variety of customers use these estimates:
 
@@ -51,4 +51,4 @@ A wide variety of customers use these estimates:
 - State and local governments use the estimates for planning and budgetary purposes and to determine the need for local employment and training services.
 - Private industry, researchers, the media, and other individuals use the data to assess localized labor market developments and make comparisons across areas.
 
-View my notebook here: https://nbviewer.org/github/Tinashe-04/LocalAreaUnemploymentStatistics/blob/main/Local%20Area%20Unemployment%20Stats.ipynb#
+View my notebook [here](https://nbviewer.org/github/Tinashe-04/LocalAreaUnemploymentStatistics/blob/main/Local%20Area%20Unemployment%20Stats.ipynb#)
