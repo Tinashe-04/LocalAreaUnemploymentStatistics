@@ -52,3 +52,9 @@ A wide variety of customers use these estimates:
 - Private industry, researchers, the media, and other individuals use the data to assess localized labor market developments and make comparisons across areas.
 
 View my notebook [here](https://nbviewer.org/github/Tinashe-04/LocalAreaUnemploymentStatistics/blob/main/Local%20Area%20Unemployment%20Stats.ipynb#)
+
+03/11/2024
+
+- Created a plot to examine trends in unemployment for the past 10 years in top 5 counties in California
+- Visualized annual drops in unemployment at the ends of Q1, Q2, Q3 and peaks at the end of Q4
+- Displayed how quickly unemployment rates returned to pre-pandemic levels
