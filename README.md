@@ -64,3 +64,4 @@ View my notebook [here](https://nbviewer.org/github/Tinashe-04/LocalAreaUnemploy
 - Created a plot to examine trends in unemployment for the past 10 years in top 5 Metropolitan Statistical Areas in California
 - Noted that they all returned to pre-pandemic levels of unemployment rates
 - Also noted that unemployment was declining fast before 2015 and began declining much slower after 2015 before spiking up during the COVID-19 pandemic
+- Cleaned up the code using markdown chunks
